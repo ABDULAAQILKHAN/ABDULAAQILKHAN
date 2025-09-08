@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaqil khan</h1>
-<h3 align="center">I'm a Computer Science student with a passion for coding and problem-solving. Feel free to reach out to me if you want to collaborate on a project! Happy coding</h3>
+<h3 align="center">I'm a Computer Science engineer with a passion for coding and problem-solving. Feel free to reach out to me if you want to collaborate on a project! Happy coding</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulaaqilkhan&label=Profile%20views&color=0e75b6&style=flat" alt="abdulaaqilkhan" /> </p>
 
